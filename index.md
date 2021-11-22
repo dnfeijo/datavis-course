@@ -36,3 +36,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
+### Exercícios Vega-Lite API - Entrega 23/11/2021
+
+<iframe width="100%" height="465" frameborder="0"
+  src="https://observablehq.com/embed/@dnfeijo/vega-lite-api-exercicios?cells=ex1"></iframe>
+  
+<iframe width="100%" height="471" frameborder="0"
+  src="https://observablehq.com/embed/@dnfeijo/vega-lite-api-exercicios?cells=ex2"></iframe>
