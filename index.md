@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Test
 
-[Exercícios](https://github.com/dnfeijo/datavis-course/blob/main/basic/exerciciosVegaLiteAPI.html)
+[Exercícios](exercicios/exerciciosVegaLiteAPI.html)
